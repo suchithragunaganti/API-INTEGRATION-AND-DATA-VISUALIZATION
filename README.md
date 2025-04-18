@@ -12,6 +12,10 @@ Duration: April 15th, 2025 to May 15th, 2025.
 
 Mentor: Neela Santhosh Kumar
 
+![Image](https://github.com/user-attachments/assets/7b69f274-b551-4162-ba42-8d556c271556)
+
+
+
 API Integration and Data Visualization 
 API integration and data visualization are critical components in modern software systems that enable efficient data handling, real-time processing, and insightful decision-making. Together, they bridge the gap between complex backend systems and user-friendly frontends, making data accessible and meaningful.
 
