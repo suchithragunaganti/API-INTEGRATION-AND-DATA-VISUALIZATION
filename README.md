@@ -14,6 +14,8 @@ Mentor: Neela Santhosh Kumar
 
 ![Image](https://github.com/user-attachments/assets/7b69f274-b551-4162-ba42-8d556c271556)
 
+OUTPUT
+
 
 
 API Integration and Data Visualization 
